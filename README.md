@@ -8,7 +8,7 @@ A local AI chatbot powered by [Ollama](https://ollama.com/) using the **Phi-3** 
 
 - [Ollama](https://ollama.com/) installed (Linux, macOS, or Windows)
 - Docker (optional, but recommended for some environments)
-- Python (if your chatbot uses a Python script to interface with the model)
+- Python (chatbot uses a Python script to interface with the model)
 
 ---
 
