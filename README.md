@@ -26,8 +26,14 @@ Run this command in your terminal:
 
 ```bash
 ollama pull phi3
+```
+
+Run this command in your terminal to run chatbot:
 
 ```bash
 streamlit run chatbot.py
+```
+
+
 
 
