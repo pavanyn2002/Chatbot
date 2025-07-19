@@ -26,3 +26,8 @@ Run this command in your terminal:
 
 ```bash
 ollama pull phi3
+
+```bash
+streamlit run chatbot.py
+
+
